@@ -1,0 +1,18 @@
+{
+  "cars": [
+    {
+      "Cor": "branco",
+      "Placa": "AAA-1111",
+      "Ano": "2021",
+      "Modelo": "BBB",
+      "id": 1
+    },
+    {
+      "Cor": "prata",
+      "Placa": "BBB-2222",
+      "Ano": "2020",
+      "Modelo": "CCC",
+      "id": 2
+    }
+  ]
+}
