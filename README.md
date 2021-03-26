@@ -39,7 +39,7 @@ All records from local database will be displayed.
 
 ![image](https://user-images.githubusercontent.com/32129972/112536497-4fe0c300-8d8c-11eb-9b05-3c535471b503.png)
 
-To view a especific record, you can search by ID - localhost/cars/[1,2,3...]  
+To view a specific record, you can search by ID - localhost/cars/[1,2,3...]  
 http://localhost/cars/1  
 
 ![image](https://user-images.githubusercontent.com/32129972/112536765-a1894d80-8d8c-11eb-8a1d-32fc5a3cd1b3.png)
